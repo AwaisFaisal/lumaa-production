@@ -109,3 +109,5 @@ temp/
 client/public/__manus__/version.json
 .project-config.json
 config.bat
+.env
+.env.local
